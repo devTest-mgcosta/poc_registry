@@ -1,0 +1,8 @@
+{
+  "flowId": "1e7d1f75-3640-49d7-8be9-b7f5a03217de",
+  "bucketId": "aa06262e-9352-4fd1-b4f6-a28a31114839",
+  "name": "delete-dynamodb-dataflow-v9",
+  "description": "",
+  "createdTimestamp": 1642526216015,
+  "versionCount": 1
+}
