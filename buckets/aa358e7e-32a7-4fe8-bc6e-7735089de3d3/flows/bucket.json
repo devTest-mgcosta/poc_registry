@@ -1,0 +1,9 @@
+{
+  "identifier": "aa358e7e-32a7-4fe8-bc6e-7735089de3d3",
+  "name": "dev-bucket",
+  "createdTimestamp": 1698240000000,
+  "permissions": {
+    "canRead": true,
+    "canWrite": true
+  }
+}
