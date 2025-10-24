@@ -1,8 +1,0 @@
-{
-  "flowId": "b22bccd3-1a0d-4ab7-9ee6-cc78fc111bb7",
-  "bucketId": "aa358e7e-32a7-4fe8-bc6e-7735089de3d3",
-  "name": "CMS Data Sync - NiFi 2.6.0",
-  "description": "update JoltTransformJSON processor coordinates",
-  "createdTimestamp": 1761062033569,
-  "versionCount": 1
-}

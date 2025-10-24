@@ -1,8 +1,0 @@
-{
-  "flowId": "b5e17966-9a5f-4602-9c0e-eda81adbf3ab",
-  "bucketId": "aa358e7e-32a7-4fe8-bc6e-7735089de3d3",
-  "name": "put-dynamodb-dataflow-v9",
-  "description": "Fix issue saving APL when it doesn't include a dollar ($) character",
-  "createdTimestamp": 1644596715689,
-  "versionCount": 1
-}
